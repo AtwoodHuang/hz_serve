@@ -1,0 +1,3 @@
+/home/huangzhe/CLionProjects/hz_server/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/huangzhe/CLionProjects/hz_server/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/huangzhe/CLionProjects/hz_server/cmake-build-debug/CMakeFiles/hz_server.dir
